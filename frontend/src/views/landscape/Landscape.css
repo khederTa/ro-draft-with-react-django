@@ -1,0 +1,9 @@
+body{
+    background-color: #eaeaea;
+}
+
+.card-item{
+    border-top-left-radius: 25px;    
+    border-bottom-right-radius: 25px;    
+    height: 250px;
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Thing",
+  "children": [
+    {
+      "name": "Integration",
+      "description": "Active engagement of refugees in their host countries, culturally, economically, and socially. It is the opposite of exclusion, isolation, and limbo life.",
+      "children": [
+        {
+          "name": "Cultural Integration",
+          "description": "The refugee's ability to speak the local language and to embrace or to live in harmony with the values of the host country."
+        },
+        {
+          "name": "Social Integration",
+          "description": "The refugee's ability to build a wide and deep social network in the host country, such as having friends and good relations with neighbors."
+        },
+        {
+          "name": "Economic Integration",
+          "description": "The refugee's ability to be active in the job market in the host place/country."
+        }
+      ]
+    },
+    {
+      "name": "Place",
+      "description": "The physical, environmental, and geographical 'container' where a refugee (or any other person) lives, acts, resides, or passes through, and [the place is] the idea or abstract notion that a refugee refers to as a site of residence, home, or an anchor of culture. Place need not be material only. It is an immaterial entity (manifesting as perception of tradition, as memory, as a definer of identity, etc.) as much as a material entity or a physical site.",
+      "children": [
+        {
+          "name": "Host Place",
+          "description": "The place where a refugee lives. It may refer to a nation-state, city, or a village."
+        },
+        {
+          "name": "Home Place",
+          "description": "The place of origin from where refugees had fled. It can be a city, a village, or a nation-state."
+        }
+      ]
+    },
+    {
+      "name": "Refugee Agency",
+      "description": "The capability of refugees to act, to choose, to be as they believe that will serve their well-being the best. It is, in other words, to be autonomous.",
+      "children": [
+        {
+          "name": "High Agency",
+          "description": "The high autonomy, capability, and power enjoyed by a refugee in a way that makes her, even relatively, able to carve out her fate and livelihood."
+        },
+        {
+          "name": "Low Agency",
+          "description": "The weak autonomy, capability, and power of a refugee in a way that makes her unable to carve out her fate and livelihood."
+        }
+      ]
+    },
+    {
+      "name": "Refugee Identity",
+      "description": "The way a refugee defines herself; the sense of a self.",
+      "children": [
+        {
+          "name": "Attachment",
+          "description": "Refugee's linkage to a place; to which extent a refugee is attached to a place as a part of her identity.",
+          "children": [
+            {
+              "name": "Host Attachment",
+              "description": "Refugee's attachment to a place(s) that is related to or located in her host place/country."
+            },
+            {
+              "name": "Home Attachment",
+              "description": "Refugee's attachment to a place(s) that is related to or located in her home."
+            }
+          ]
+        },
+        {
+          "name": "Belonging",
+          "description": "Refugee's linkage to a group; to which extent a refugee is self-identified as a member of a group (national, religious, ethnic, etc.).",
+          "children": [
+            {
+              "name": "Host Belonging",
+              "description": "Belonging to a group(s) that resides or exists in the host country."
+            },
+            {
+              "name": "Home Belonging",
+              "description": "Belonging to a group that resides in refugees' original country (home place)."
+            }
+          ]
+        },
+        {
+          "name": "Place Making",
+          "description": "The way a refugee conceptualizes, understands, and struggles to form - by whatever means she has - a place where she lives or desires to live (for example, by decorating her house in a similar way to traditional houses in her home place, or by political activities to form a new government in home, etc.).",
+          "children": [
+            {
+              "name": "Host Making",
+              "description": "Activities that are located physically in the refugee's host place or essentially related to it."
+            },
+            {
+              "name": "Home Making",
+              "description": "Activities that are located physically in the refugee's home place or essentially related to it (even if the refugee lives remotely)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reintegration",
+      "description": "The ability of those who return to re-establish their lives in their countries of origin.",
+      "children": [
+        {
+          "name": "Economic Well Being",
+          "description": "The ability of a returnee to be active in her home again economically and in the job market."
+        },
+        {
+          "name": "Social Capital",
+          "description": "The social network, social capital, that a returnee has in her home."
+        },
+        {
+          "name": "Political Process",
+          "description": "The ability of a returnee to enjoy a stable (at least) political environment in her home."
+        }
+      ]
+    },
+    {
+      "name": "Transnationalism",
+      "description": "Activities of refugees that link or bridge multiple places together, home and host. These activities or practices can be endorsed at the everyday level or in the long term."
+    }
+  ]
+}

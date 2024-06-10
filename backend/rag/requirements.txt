@@ -1,0 +1,7 @@
+PyMuPDF
+python-dotenv
+agraph-python
+torch
+transformers
+pandas
+numpy
