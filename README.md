@@ -1,4 +1,4 @@
-# Refugee Otology Web Application
+# Refugee Ontology Web Application
 
 This is a **Draft** of the Refugee Ontology Web Application built with React.js, Django, and AllegroGraph. The main goal is to provide a simple user interface for non-technical people and decision-makers in NGOs and related organizations to study refugee situations using a knowledge graph (ontology) and derive insights from the data. The application supports a QA system built with Retrieval Augmented Generation (RAG), relying on significant resources (books and scientific papers) related to social science.
 
